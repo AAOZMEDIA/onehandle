@@ -1,0 +1,10 @@
+onehandle/
+ ├── backend/
+ │   ├── index.js
+ │   └── package.json
+ ├── frontend/
+ │   ├── index.html
+ │   └── app.js
+ ├── README.md
+ ├── LICENSE
+ └── .gitignore
