@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>OneHandle</title>
+  </head>
+  <body>
+    <h2>OneHandle</h2>
+    <textarea id="text" placeholder="Create once..."></textarea>
+    <br /><br />
+    <button onclick="post()">Publish Everywhere</button>
+    <p id="status"></p>
+
+    <script src="app.js"></script>
+  </body>
+</html>
