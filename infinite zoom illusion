@@ -1,0 +1,1 @@
+<div style="width:100vw;height:100vh;background:radial-gradient(circle at 50% 50%, #000 0%, #000 25%, #fff 25%, #fff 50%, #000 50%, #000 75%, #fff 75%, #fff 100%);animation:spin 60s infinite linear;"> <style>@keyframes spin{from{transform:rotate(0deg)scale(1)}to{transform:rotate(360deg)scale(10)}}</style></div>
